@@ -1,3 +1,7 @@
+//
+// Created by lahyani on 3/13/18.
+//
+
 #include <iostream>
 using namespace std;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
@@ -13,6 +17,7 @@ int main(int argc, char** argv) {
 		cin>>N;
 	}
 	cout<<N<<" +17 = "<<N+17<<endl;
+
 	
 	return 0;
 }
