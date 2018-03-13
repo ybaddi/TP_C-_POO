@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    int z,n;
-	z=1;
+    int n;
 	cout << "entrer un nombre" << endl;
 	cin>> n ;
 	if ((n>=56) and (n<=78) )
