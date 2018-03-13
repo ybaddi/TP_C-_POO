@@ -14,5 +14,6 @@ int main(){
     cout<<"Veuillez entrer la largeur"<<endl;
     cin>>lar;
     cout<<"la surface est "<< lon * lar<<endl;
+    cout<<"la primetre est "<< 2 * (lon + lar)<<endl;
 }
 
